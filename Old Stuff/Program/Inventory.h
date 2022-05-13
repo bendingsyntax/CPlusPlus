@@ -1,4 +1,4 @@
-#ifndef INVENROTY_H
+#ifndef INVENTORY_H
 #define INVENTORY_H
 
 class Inventory
